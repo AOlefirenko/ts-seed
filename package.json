@@ -1,0 +1,16 @@
+{
+  "name": "ts-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-ts": "^4.2.0-beta.1",
+    "grunt-typescript": "^0.6.2"
+  }
+}
