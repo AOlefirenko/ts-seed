@@ -3,5 +3,7 @@ var RolledHelpersGroup = (function () {
     }
     RolledHelpersGroup.prototype.getAll = function (cb) {
     };
+    RolledHelpersGroup.prototype.next = function () {
+    };
     return RolledHelpersGroup;
 })();

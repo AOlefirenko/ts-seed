@@ -4,5 +4,9 @@ class RolledHelpersGroup{
 	getAll(cb:any){
 		
 	}
+	next(){
+		
+	}
+	
 	
 }
