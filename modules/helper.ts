@@ -1,8 +1,8 @@
-class Helper{
-	constructor(a:any,b:any){
-		
+class Helper {
+	constructor(a: any, b: any) {
+
 	}
-	activate(){
-		console.log('aaa','bbbb');
+	activate() {
+		console.log('aaa', 'bbbb');
 	}
 }

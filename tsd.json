@@ -1,0 +1,63 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "rx/rx.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx-lite.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.time.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.all.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.aggregates.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.coincidence.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.async-lite.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.async.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.binding.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.backpressure-lite.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.joinpatterns.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.binding-lite.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.coincidence-lite.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.virtualtime.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.testing.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.backpressure.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.time-lite.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    },
+    "rx/rx.experimental.d.ts": {
+      "commit": "2c96e9e77765b72ce43ab8163f42e504f3e2facb"
+    }
+  }
+}

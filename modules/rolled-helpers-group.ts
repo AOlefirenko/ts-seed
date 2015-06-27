@@ -1,12 +1,13 @@
-class RolledHelpersGroup{
-	constructor(a:any){
+/// <reference path="helper.ts" />
+
+class RolledHelpersGroup {
+	constructor(a: any) {
+		var helper = new Helper(22, 1);
 	}
-	getAll(cb:any){
-		
+	getAll(cb: any) {
+		//qweqweqweqw
 	}
-	next(){
-		
+	next() {
+
 	}
-	
-	
 }
